@@ -10,6 +10,8 @@ An interactive Power BI portfolio project exploring football performance across 
 
 ## Dashboard 1 — Performance Overview
 
+![Performance Overview dashboard](team-overview.png.png)
+
 Team and position slicers enable comparative analysis. KPI cards summarize average rating, goals, assists and passing accuracy. Horizontal bar charts compare the top 10 players by rating and leading goal scorers alongside assists.
 
 ### Key observations from the overview screenshot
@@ -24,6 +26,8 @@ Team and position slicers enable comparative analysis. KPI cards summarize avera
 Memphis Zerrouki leads the displayed goal scorers with 24 goals. Ali Al-Buraikan leads the displayed rating chart with 5.4.
 
 ## Dashboard 2 — Player Insights
+
+![Player Insights dashboard](player-insights.png.png)
 
 Team, position and player slicers support individual performance analysis. KPI cards display player name, goals, assists, shot conversion and average rating. Monthly charts compare goals and assists and show passing accuracy trends.
 
@@ -64,7 +68,7 @@ Shot conversion represents goals divided by shots, expressed as a percentage. Pa
 
 ## Data and limitations
 
-This is an exploratory portfolio project. The displayed results describe the supplied dataset and have not been verified against official FIFA tournament statistics. Dataset provenance and redistribution permissions remain unverified. Full report execution and the final Top N filter and player slicer behavior have not been independently validated. Dashboard screenshot files are pending addition to the repository.
+This is an exploratory portfolio project. The displayed results describe the supplied dataset and have not been verified against official FIFA tournament statistics. Dataset provenance and redistribution permissions remain unverified. Full report execution and the final Top N filter and player slicer behavior have not been independently validated.
 
 ## Author
 
